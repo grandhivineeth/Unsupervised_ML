@@ -1,7 +1,3 @@
-# Unsupervised_ML
-To find the number of optimal number of clusters for the given dataset.
-
-
 # Unsupervised_ML(Finding Optimal Number of Clusters Task) 
 
 # Clustering Model Building 
